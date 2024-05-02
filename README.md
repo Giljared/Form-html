@@ -60,12 +60,14 @@ HTML for Beginners - Codecademy: https://www.codecademy.com/learn/learn-html
 
 CSS:
 ### CSS Tutorial | W3Schools: https://www.w3schools.com/css/
-Learn CSS in 1 Hour - CSS-Tricks: [URL inválido removido]
-Formulários:
-### HTML Forms Tutorial - Mozilla Developer Network: [URL inválido removido]
-CSS Forms Tutorial - Mozilla Developer Network: [URL inválido removido]
-Form Design Best Practices - UX Collective: [URL inválido removido]
-Ferramentas e Bibliotecas:
+Learn CSS in 1 Hour - CSS-Tricks: https://www.udemy.com/course/1-hour-css/?couponCode=ST2MT43024 
+
+# Formulários:
+### HTML Forms Tutorial - Mozilla Developer Network: (https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML)
+CSS Forms Tutorial - Mozilla Developer Network: https://developer.mozilla.org/pt-BR/docs/Web/CSS
+Form Design Best Practices - UX Collective: https://bootcamp.uxdesign.cc/form-design-best-practices-4df6002ae3ce?gi=d70077629dad
+
+# Ferramentas e Bibliotecas:
 
 # HTML:
 ## Emmet: https://emmet.io/
@@ -73,12 +75,12 @@ Ferramentas e Bibliotecas:
 Bootstrap: https://getbootstrap.com/
 
 # CSS:
-CSS Frameworks: [URL inválido removido]
+CSS Frameworks: https://github.com/troxler/awesome-css-frameworks 
 
-Preprocessors: [URL inválido removido]
+Preprocessors: https://developer.mozilla.org/pt-BR/docs/Glossary/CSS_preprocessor
 
 # Formulários:
-jQuery Forms: [URL inválido removido]
+jQuery Forms: https://demo.mobiscroll.com/jquery/forms 
 
 Formspree: https://formspree.io/
 
